@@ -1,0 +1,10 @@
+here are some commands to give to the chatbot to get your reply
+1. hy 
+2. helo
+3. what is your name
+4. who is your developer
+5. can you feel
+6. exit
+
+you can also add more command and can set your mannual code,
+you can edit the file in your choice
